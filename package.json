@@ -1,0 +1,16 @@
+{
+  "name": "pkavocats",
+  "version": "1.0.0",
+  "description": "Karavoulias Attorneys website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jim Anastassiou",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt-contrib-imagemin": "^2.0.1",
+    "imagemin-jpegoptim": "^5.1.0",
+    "imagemin-mozjpeg": "^6.0.0"
+  }
+}
